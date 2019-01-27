@@ -101,13 +101,7 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "WY",
-        href: ""
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/"
-    },{
+      {
         title: "Apple",
         href: "https://apple.com"
     },{
