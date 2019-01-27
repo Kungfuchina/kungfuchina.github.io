@@ -17,9 +17,9 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 
 # SNS settings
-RSS: true
+RSS: false
 weibo_username: 5116601601
-zhihu_username: Rufus Tao
+zhihu_username: rufus-tao
 github_username: kungfuchina
 facebook_username:
 jianshu_username:
