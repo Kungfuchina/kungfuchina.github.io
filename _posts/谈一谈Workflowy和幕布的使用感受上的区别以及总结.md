@@ -1,4 +1,4 @@
-# 谈一谈Workflowy和幕布的使用感受上的区别以及总结
+---
 layout: post
 title: 谈一谈Workflowy和幕布的使用感受上的区别以及总结
 subtitle: 
@@ -8,7 +8,7 @@ header-img: img/post-bg-web-change.jpg
 catalog: true
 tags:
 - Workflowy
-
+---
 
 - 介绍
     - Workflowy 是一款跨平台跨设备自动同步的在线个人/团队笔记管理软件工具。
