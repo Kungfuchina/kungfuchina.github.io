@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 谈一谈Workflowy和幕布的使用感受上的区别以及总结
+title: 谈一谈Workflowy与幕布在使用感受上的区别和总结
 subtitle: 
 date: 2019-06-20
 author: Supertramp
